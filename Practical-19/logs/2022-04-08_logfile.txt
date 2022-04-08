@@ -1,0 +1,4 @@
+2022-04-08 12:07:54.2680 INFO Fetching all Employees from Database
+2022-04-08 12:07:54.3006 ERROR No records found or Employee table empty
+2022-04-08 12:08:55.7690 INFO Adding a new Employee
+2022-04-08 12:08:55.9456 ERROR Error While Adding a Employee

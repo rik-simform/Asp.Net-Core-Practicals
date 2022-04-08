@@ -1,0 +1,15 @@
+C:\Users\rikesh\source\repos\Practical-19\LoggingService\bin\Debug\net5.0\LoggingService.deps.json
+C:\Users\rikesh\source\repos\Practical-19\LoggingService\bin\Debug\net5.0\LoggingService.dll
+C:\Users\rikesh\source\repos\Practical-19\LoggingService\bin\Debug\net5.0\ref\LoggingService.dll
+C:\Users\rikesh\source\repos\Practical-19\LoggingService\bin\Debug\net5.0\LoggingService.pdb
+C:\Users\rikesh\source\repos\Practical-19\LoggingService\bin\Debug\net5.0\Contracts.dll
+C:\Users\rikesh\source\repos\Practical-19\LoggingService\bin\Debug\net5.0\Contracts.pdb
+C:\Users\rikesh\source\repos\Practical-19\LoggingService\obj\Debug\net5.0\LoggingService.csproj.AssemblyReference.cache
+C:\Users\rikesh\source\repos\Practical-19\LoggingService\obj\Debug\net5.0\LoggingService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rikesh\source\repos\Practical-19\LoggingService\obj\Debug\net5.0\LoggingService.AssemblyInfoInputs.cache
+C:\Users\rikesh\source\repos\Practical-19\LoggingService\obj\Debug\net5.0\LoggingService.AssemblyInfo.cs
+C:\Users\rikesh\source\repos\Practical-19\LoggingService\obj\Debug\net5.0\LoggingService.csproj.CoreCompileInputs.cache
+C:\Users\rikesh\source\repos\Practical-19\LoggingService\obj\Debug\net5.0\LoggingService.csproj.CopyComplete
+C:\Users\rikesh\source\repos\Practical-19\LoggingService\obj\Debug\net5.0\LoggingService.dll
+C:\Users\rikesh\source\repos\Practical-19\LoggingService\obj\Debug\net5.0\ref\LoggingService.dll
+C:\Users\rikesh\source\repos\Practical-19\LoggingService\obj\Debug\net5.0\LoggingService.pdb
